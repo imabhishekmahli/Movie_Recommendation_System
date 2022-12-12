@@ -34,3 +34,6 @@ accuracy.
 
 ## Content Based Filtering VS Collaborative Based Filtering 
 ![alt text](https://github.com/imabhishekmahli/Movie_Recommendation_System/blob/main/screenshots/content-based_vs_collaborative_dark.png)
+
+## Netflix Recommendation System
+![alt text]()
