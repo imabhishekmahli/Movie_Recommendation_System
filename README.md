@@ -32,3 +32,5 @@ fed from remaining 20% data which the model has never seen before, the model wil
 predict some value and we will compare it with actual output and calculate the
 accuracy.
 
+## Content Based Filtering VS Collaborative Based Filtering 
+![alt text](https://github.com/imabhishekmahli/Movie_Recommendation_System/blob/main/screenshots/content-based_vs_collaborative_dark.png)
