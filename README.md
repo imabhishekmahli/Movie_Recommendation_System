@@ -36,4 +36,4 @@ accuracy.
 ![alt text](https://github.com/imabhishekmahli/Movie_Recommendation_System/blob/main/screenshots/content-based_vs_collaborative_dark.png)
 
 ## Netflix Recommendation System
-![alt text]()
+![alt text](https://github.com/imabhishekmahli/Movie_Recommendation_System/blob/main/screenshots/netflix_recommendation_system_dark.jpg)
